@@ -1,0 +1,4 @@
+lab50:
+  files:
+    - !include Main.java
+    - !include ../common_file.js
